@@ -41,8 +41,8 @@ This system implements a **multi-level referral hierarchy** that tracks and dist
 ### **2. Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/referral-system.git
-   cd referral-system
+   git clone https://github.com/your-repo/referal_system_backend.git
+   cd referal_system_backend
    ```
 
 2. Install dependencies:
