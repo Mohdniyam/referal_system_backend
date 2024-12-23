@@ -68,7 +68,7 @@ This system implements a **multi-level referral hierarchy** that tracks and dist
    module.exports = { sequelize };
    ```
 
-3. Run database migrations:
+<!-- 3. Run database migrations:
    ```bash
    npx sequelize-cli db:migrate
    ```
@@ -76,7 +76,7 @@ This system implements a **multi-level referral hierarchy** that tracks and dist
 4. Seed the database (optional):
    ```bash
    npx sequelize-cli db:seed:all
-   ```
+   ``` -->
 
 ### **4. Start the Server**
 Run the application:
